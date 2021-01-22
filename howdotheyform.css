@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+#inin {
+  border: 5px solid black;
+  font-family: 'Poppins', sans-serif;
+  background: coral;
+  width: 60%;
+  text-align: center;
+  align-items: center;
+  padding: 30px;
+  margin-left: 220px;
+  margin-top: 80px;
+  border-radius: 10px;
+}
+
+#scroll{
+  width: 200px;
+  border-radius: 60%;
+}

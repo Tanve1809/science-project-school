@@ -1,0 +1,37 @@
+* {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.content {
+  background-color: #add8e6;
+  margin-left: 16%;
+  margin-top: 10%;
+
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.inner-content {
+  text-align: center;
+}
+
+#info-btn {
+  text-decoration: none;
+  color: black;
+  padding: 10px;
+  background-color: thistle;
+}
+
+#planet {
+  width: 660px;
+  height: 400px;
+  margin-top: 200px;
+}
